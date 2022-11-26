@@ -1,0 +1,8 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+#game {
+    width: 608px;
+    height: 608px;
+}
